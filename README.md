@@ -1,7 +1,14 @@
 ## Hi there 👋
-
+<h1 align="center">Hi there, I am Vladislav👋</h1>
+<li>
+  <ol>
+    I’m currently working on
+  </ol>
+  <ol>
+    I’m currently working on
+  </ol>
+</li>
 <!--
-**vlados1kin/vlados1kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
