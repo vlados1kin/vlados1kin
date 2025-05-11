@@ -8,7 +8,7 @@
 
 
 ## Glad to see you here!  
-I'm a .NET developer with an emphasis on web development. I've been studying at the Belarusian State University of Informatics and Radioelectronics for 2 years. Studying at university allows me to learn new things in different spheres and enhance my skills. I'm currently working on my pet projects.  
+I'm a .NET developer with an emphasis on web development. I've been studying at the Belarusian State University of Informatics and Radioelectronics for 3 years. Studying at university allows me to learn new things in different spheres and enhance my skills. I'm currently working on my pet projects.  
 <br/>  
 
 
